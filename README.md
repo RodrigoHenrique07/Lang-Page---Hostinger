@@ -14,7 +14,7 @@ Projeto  Land-Page KingHost responsivo
    
 ## Status ✅
 * Foi colocado em praticas conceitos de flex box, html semântico e variáveis de cores . O header está com uma tag para identificar a aba de navegação e fixado em relação a página, já  no main foi criado um padrão para o botão e criando uma interação com o hover 
- ![image] ![image](https://user-images.githubusercontent.com/99925589/174904715-871a138a-d3b1-41aa-9e1b-1361ea41d478.png)
+ ![image](https://user-images.githubusercontent.com/99925589/174904715-871a138a-d3b1-41aa-9e1b-1361ea41d478.png)
 
  *Foi aplicado o reaproveitamento de componentes criando um padrão para os cards e criado uma sub classe para diferênciar apenas o primeiro. Usado o FlexBox e Gap para os espaçamentos, além do layout responsivo.
  ![image](https://user-images.githubusercontent.com/99925589/174907016-9feccf47-a943-458b-afe0-d2199b13ade1.png)
