@@ -1,11 +1,11 @@
 
 # Hostinger  👨‍🚀
-## Descrição do projeto
+
 Projeto  Land-Page KingHost responsivo 
-* [Sobre](#https://codeboost.com.br/)
+
    Projeto desenvolvido com o principal intuíto de aperfeiçoar o uso do pré-processador SASS que consiste em otimizar a escrita  e engajar melhor o encadeamento dos códigos e praticar a responsividade.
    Essa ferramenta, permite também dividir o projeto em várias pastas, como uma para o header, uma para o main e outra para o footer, sem a necessiade de ficar sempre linkando 
-   as mesmas no HTML como é o caso do CSS. Para este projeto, foi feita a seguinte divisão de pastas: 
+   as mesmas no HTML como é o caso do CSS. Para este projeto, foi feita a seguinte divisão de pastas:
    
    ![image](https://user-images.githubusercontent.com/99925589/174905843-205dcd5b-f608-4f25-aeec-99041f327be5.png)
 
